@@ -1,2 +1,2 @@
 # TechCode-Website
-This is our channel website ... It is functional but still comes in underdevelopment phase.
+This is demo bussiness website ... It is partial function website will make it fully functional on demand/order.
